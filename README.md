@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning MERN Stack, Google Apps Script, SEO (lot of things, i know! :D)
 - 📫 Reach me - Linkedin - https://www.linkedin.com/in/shubham-sinha-/ 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhxl)](https://github.com/shubhxl/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhxl&layout=compact)](https://github.com/shubhxl/github-readme-stats)
 
 
 <!---
