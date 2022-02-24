@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @shubhxl (Shubham)
+- 👋 Hi, I’m Shubham Sinha
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning MERN Stack, Google Apps Script, SEO (lot of things, i know! :D)
+- 🌱 I’m currently learning MERN Stack (more focused on Frontend although! :D)
 - 📫 Reach me - Linkedin - https://www.linkedin.com/in/shubham-sinha-/ 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhxl&layout=compact)](https://github.com/shubhxl/github-readme-stats)
