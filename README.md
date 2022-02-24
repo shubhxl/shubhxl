@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Shubham Sinha
 - 👀 I’m interested in Web Development
+- 🧡 HTML, CSS, Bootstrap, JavaScript, React, Node, SEO
 - 🌱 I’m currently learning MERN Stack (more focused on Frontend though! :D)
 - 📫 Reach me - Linkedin - https://www.linkedin.com/in/shubham-sinha-/ 
 
